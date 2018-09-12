@@ -1,12 +1,10 @@
 .App {
   display: flex;
-  align-items: center;
+  /*align-items: center;*/
   justify-content: center;
-  width: 650px;
-  height: 400px;
-  padding-left: 10px;
-  margin: 50px auto;
-  background-color: #FE0065;
-  border-radius: 10px;
+  height: auto;
+  margin: auto;
+  background-image: url("../pokewallpaper.gif");
+  background-color: #cccccc;
   box-shadow: 0 14px 45px rgba(0, 0, 0, 0.22), 0 18px 45px rgba(0, 0, 0, 0.22);
 }
